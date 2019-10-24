@@ -1,3 +1,4 @@
+sep=,
 Section,Name,Item,Description
 V3,Session,3.1.1,Verify the application never reveals session tokens in URL parameters or error messages.
 V3,Session,3.2.1,Verify the application generates a new session token on user authentication. ([C6](https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=Formal_Numbering))
